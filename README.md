@@ -1,4 +1,5 @@
 Junho Na
 
-- Undergraduate : Yonsei University, Applied Statistics.
+- Yonsei University, Applied Statistics (Undergraduate, 2017 ~ 2023)
+- Data Scientist
 
