@@ -5,5 +5,5 @@ Junho Na
 - AI Researcher
 - Research fields
   - Efficient ML
-  - NLP / RAG
+  - LLM
   - RL
