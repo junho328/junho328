@@ -4,6 +4,6 @@ Junho Na
 - KAIST, Computer Science (Graduate, 2024 ~) 
 - AI Researcher
 - Research fields
-  - Efficient ML
+  - Mechanistic Interpretability
   - LLM
   - RL
